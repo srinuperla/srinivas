@@ -1,8 +1,0 @@
-.cache         add1                       perla
-.config        arre.sh                    practice
-srinivas@KPI-SrinuPerlaTrainee:~$ sudo bash
-[sudo] password for srinivas:
-root@KPI-SrinuPerlaTrainee:~# ^C
-root@KPI-SrinuPerlaTrainee:~# ^C
-root@KPI-SrinuPerlaTrainee:~# ^C
-root@KPI-SrinuPerlaTrainee:~#
